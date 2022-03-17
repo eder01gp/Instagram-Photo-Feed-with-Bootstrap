@@ -1,12 +1,12 @@
-Main function:
+# Main function:
 Build a website using Bootstrap classes to replicate Instagram interface
 
-Main structure:
+# Main structure:
 Boostrap objects and functionalities. Navbar, pills, buttons.
 
 _____________________________
 
-## Further instructions:
+# Further instructions:
 
 To see it live by running a web-server using the following command:
 
